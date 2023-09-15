@@ -7,7 +7,7 @@ LINK REPOSITORIO BACKEND: https://github.com/ricardodaantas/labeddit-back
 
 LINK REPOSITORIO FRONTEND: https://github.com/ricardodaantas/labeddit-front
 
-LINK DO SITE SURGE:
+LINK DO SITE SURGE: https://ricardo-dantas-labeddit.surge.sh/
 
 LINK API NO RENDER: https://ricardo-dantas-labeddit.onrender.com
 
