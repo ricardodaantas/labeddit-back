@@ -1,10 +1,5 @@
 <h1 align="center" id="title">Labeddit Backend</h1>
 
-<p id="description">Bem-vindos ao Labeddit! 😎 Uma rede social inspirada no reddit. Esta é o repositório do backend do Projeto. Desenvolvido usando NodeJs, Typescript, Express e SQLite. Este é o projeto final que coroa nosso percurso pelo curso full-stack da Labenu </p>
-
-<p align="center"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="shields"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="shields"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&amp;logo=express&amp;logoColor=%2361DAFB" alt="shields"><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="shields"><img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&amp;logo=jest&amp;logoColor=white" alt="shields"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" alt="shields"></p>
-
-<h2>📜 Documentação da API</h2>
 
 A documentação da API pode ser encontrada no [Postman](https://documenter.getpostman.com/view/24823235/2s9XxyRtDt), que fornece detalhes sobre os endpoints disponíveis, parâmetros de entrada, exemplos de solicitações e respostas.
 
@@ -55,27 +50,7 @@ npm run dev
 ```
 
   
-  
-<h2>💻 Construído com</h2>
-
-Técnologias e Métodologias Utilizadas:
-
-*   NodeJs
-*   Typescript
-*   Express
-*   SQL e SQLite
-*   Knex
-*   Jest
-*   POO
-*   Arquitetura em camadas
-*   Geração de UUID
-*   Geração de hashes
-*   Autenticação e autorização
-*   Testes unitários
-
 <h2>🔚 Endpoints</h2>
-
-A seguir, estão listados os endpoints disponíveis na API Labeddit:
 
 ### Usuários
 
@@ -146,9 +121,3 @@ A seguir, estão listados os endpoints disponíveis na API Labeddit:
 16. **Verificar Reação do Usuário em um Comentário (GET)**
     - URL: `http://localhost:3003/comments/:id/checklike`
     - Descrição: Permite que os usuários obtenham a reação registrada para um comentário específico com base no ID fornecido.
-
-<h2>🎲 Banco de Dados</h2>
-
-Diagrama do banco de dados, suas tabelas e relações:
-
-[Clique aqui](https://raw.githubusercontent.com/rafaelmelodruzian/labeddit-back-end/main/src/Assets/Tabelas%20DB.png)
