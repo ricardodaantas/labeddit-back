@@ -1,9 +1,16 @@
 <h1 align="center" id="title">Labeddit Backend</h1>
 
 
-A documentação da API pode ser encontrada no [Postman](https://documenter.getpostman.com/view/24823235/2s9XxyRtDt), que fornece detalhes sobre os endpoints disponíveis, parâmetros de entrada, exemplos de solicitações e respostas.
+DOCUMENTAÇÃO: https://documenter.getpostman.com/view/24823235/2s9XxyRtDt
 
-Repositório do Front-end: https://github.com/ricardodaantas/labbedit-front
+LINK REPOSITORIO BACKEND: https://github.com/ricardodaantas/labeddit-back
+
+LINK REPOSITORIO FRONTEND: https://github.com/ricardodaantas/labeddit-front
+
+LINK DO SITE SURGE:
+
+LINK API NO RENDER: https://ricardo-dantas-labeddit.onrender.com
+
   
 <h2>🧐 Funcionalidades</h2>
 
